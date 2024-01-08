@@ -2,7 +2,7 @@
 
 ## Description & folder structure
 
-fnestjs & nextjs monorepo starter repository.  
+Nestjs & nextjs monorepo starter repository.  
 ```bash
 root
 --apps 
