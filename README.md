@@ -39,9 +39,9 @@ $ pnpm add <package> --filter=server
 
 ```bash
 #  this to insert a command in the server from the root dir "nest commands for example .."
-$ pnpm --filter server <command>
+$ pnpm --filter server exec <command>
 
 #  this to insert a command in the client from the root dir 
-$ pnpm --filter client <command>
+$ pnpm --filter client exec <command>
 
 ```
