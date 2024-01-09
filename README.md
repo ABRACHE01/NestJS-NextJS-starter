@@ -30,10 +30,10 @@ $ pnpm run dev
 
 ```bash
 #  adding a packages in the client dir 
-$ pnpm add <package> --filter = client 
+$ pnpm add <package> --filter=client 
 
 #  adding a packages in the server dir 
-$ pnpm add <package> --filter = server 
+$ pnpm add <package> --filter=server 
 
 ```
 
