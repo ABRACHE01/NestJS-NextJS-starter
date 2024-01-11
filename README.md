@@ -1,4 +1,4 @@
-# NestJS-NextJS-Monorepo
+# NestJS-NextJS-starter
 
 ## Description & folder structure
 
